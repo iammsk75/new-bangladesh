@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+body{
+    font-family: "Fira Sans", serif;
+}
+
+header{
+    background-color: #F1F1F3;
+    
+}
+
+.el1{
+    padding: 24px 160px;
+}
+
+.div1{
+    display: flex;
+    justify-content:space-between;
+}
+
+.div2{
+    max-height: 560px;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    margin-top: 24px;
+    padding: 0 10px;  
+}
+
+.btn1{
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: F1F1F3;
+    border: 2px solid #006A50;
+    padding: 15px 30px;
+    color:#006A50;
+    font-weight: 600;
+
+}
+
+.img1{
+    padding-right: 50px;
+    height: 400px;
+    width: 474.03px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.text-con1{
+    padding-left: 50px;
+    padding-top: 117px;
+    padding-bottom: 117px;
+}
+
+.text-con1 h1{
+    font-size: 56px;
+    margin-top: 21px;
+    margin-bottom: 34px;
+    font-weight: 700;
+    
+}
+
+.text-con1 h4{
+    font-size: 24px;
+    margin-bottom:5px;
+    color: #0E0E0E;
+    opacity: 50%;
+}
+
+.btn2{
+    font-size: 18px;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+}
+
+.el2{
+    margin-top: 60px;
+    padding: 0px 160px;
+}
+
+
+.con1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    gap:24px;
+}
+
+.text-con2 h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.text-con2 p{
+    font-size: 16px;
+}
+
+.cont1{
+    max-width: 410px;
+    max-height: 325px;
+    background-color: #5490F533;
+    padding: 24px;
+    border-radius: 16px;
+  
+}
+
+.cont1 h2{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 24px 0px;
+}
+
+.cont1 p{
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+
+.cont1 button{
+    font-size: 16px;
+    font-weight: 600;
+    padding:11px 20px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color: #5490F5;
+    color: white;
+    margin-top: 24px;
+}
+
+
+.cont2{
+    max-width: 410px;
+    max-height: 325px;
+    background-color: #C6E4D6;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+.cont2 h2{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 24px 0px;
+}
+
+.cont2 p{
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+
+
+.cont2 button{
+    font-size: 16px;
+    font-weight: 600;
+    padding:11px 20px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color: #09A15C;
+    color: white;
+    margin-top: 24px;
+}
+
+.cont3{
+    max-width: 410px;
+    max-height: 325px;
+    background-color: #F7EBCF;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+.cont3 h2{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 24px 0px;
+
+}
+
+.cont3 p{
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+
+.cont3 button{
+    font-size: 16px;
+    font-weight: 600;
+    padding:11px 20px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color: #FFC239;
+    color: white;
+    margin-top: 24px;
+}
+
+.el3{
+    padding: 36px 160px;
+}
+
+.con2 h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.con2 p{
+    font-size: 16px;
+}
+
+.con3{
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 48px;
+    border-radius: 24px;
+}
+
+.con3 h2{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.con4 h2{
+    font-size: 32px;
+    font-weight: 800;
+}
+.con4{
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 48px;
+    border-radius: 24px;
+
+}
+
+.sat{
+    height: 306px;
+    width: 408px;
+    border-radius: 24px;
+}
+
+.ti{
+    display: flex;
+    gap:24px;
+    font-size: 16px;
+    font-weight: 400;
+    color:#5a5757
+}
+
+.con32{
+    padding: 0px 48px 0px 32px;
+}
+
+.con42{
+    padding: 0px 48px 0px 32px;
+}
+
+.btn3{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 13px 26px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    color: white;
+    background-color: #006A50;
+}
+
+.el4{
+    padding: 36px 160px;
+}
+
+.den{
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0 auto;
+}
+
+.par{
+    margin: 0 auto;
+}
+
+.con6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.bt{
+    font-size: 25px;
+    max-width: 264px;
+    max-height: 128px;
+    padding: 30px 20px;
+    background-color: white;
+    border:none;
+    outline: none;
+    border-radius: 18px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#bt1{
+    background-color: #C6E4D6;
+}
+
+.done{
+    margin: 0 auto;
+}
+
+#textbox{
+    flex:1;
+}
+
+.con5 h1{
+    text-align: center;
+}
+.con5 p{
+    text-align: center;
+}
+
+.card{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 40px;
+    color: #0E0E0E;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+
+.card.colorcard{
+    background-color: #C6E4D6;
+}
+
+.con7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.con7 input{
+    height: 64px;
+    width: 1032px;
+    text-align: center;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 400;
+    color: #0E0E0E;
+}
+
+.donate{
+    text-align: center;
+    margin-top: 32px;
+}
+
+.donate button{
+    padding: 17px 34px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 18px;
+    border-radius: 8px;
+    border:none;
+    outline: none;
+}
+
+.container6{
+    text-align: center;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+
+.container6 h1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 80px;
+}
+
+.container6 p{
+    font-size: 16px;
+    color: #5a5757;
+}
+
+.section5{
+    padding: 0px 160px;
+}
+
+.email-input{
+    width: 600px;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+
+.Subscribe-button{
+    padding: 12px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #006A50;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    margin-left: -10px;
+
+}
+
+.para{
+    font-size: 16px;
+    padding-bottom: 80px;
+    color: #777272;
+}
+
+.container7{
+    background-image: url(/assets/quote-bg.png);
+    background-position: 24px 48px;
+    background-repeat: no-repeat;
+    background-color: white;
+    border-radius: 16px;
+    padding: 48px 24px;
+    margin: 32px 160px 50px 160px;
+
+}
